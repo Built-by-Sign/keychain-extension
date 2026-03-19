@@ -230,15 +230,6 @@ Contributions are welcome! Please ensure:
 
 This project is licensed under the GNU Affero General Public License v3.0 (AGPLv3). See the [LICENSE](LICENSE) file for details.
 
-### What does AGPLv3 mean?
-
-- **Free Software**: You have the freedom to run, modify, and distribute this software
-- **Source Code Sharing**: If you modify this software and use it over a network, you must share your modifications with users
-- **Copyleft**: Derivative works must also be licensed under AGPLv3
-- **No Warranty**: The software is provided "as is" without any warranty
-
-For more information, visit [GNU Affero General Public License v3.0](https://www.gnu.org/licenses/agpl-3.0.html)
-
 ## Related Projects
 
 - **keychain-snap**: The MetaMask Snap that handles secure credential storage
